@@ -31,7 +31,7 @@ Edit
 
 ##  Screenshot
 
-![NO₂ Heatmap](Screenshot 2025-07-18 191915.png)
+![NO₂ Heatmap](Screenshot%202025-07-18%20191915.png)
 
 ---
 
